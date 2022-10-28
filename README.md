@@ -40,4 +40,5 @@ Elementi opzionali che potranno essere implementati:
 
 
 
-## Regolamento
+## Smart Locker
+Il sofware per lo smartk locker è disponibile a [questo indirizzo](http://hack-smartlocker.sintrasviluppo.it/)
